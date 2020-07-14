@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	github.com/BurntSushi/toml v0.3.1
+	github.com/a-urth/go-bindata v0.0.0-20180209162145-df38da164efc // indirect
 	github.com/danielheath/gin-teeny-security v0.0.0-20180331042316-bb11804dd0e2
 	github.com/gin-contrib/multitemplate v0.0.0-20190528082104-30e424939505
 	github.com/gin-contrib/sessions v0.0.0-20190512062852-3cb4c4f2d615
